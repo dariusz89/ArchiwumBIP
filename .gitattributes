@@ -1,0 +1,4 @@
+files/* linguist-vendored=true
+files/content_dumm.html linguist-vendored=true
+files/list_001.html linguist-vendored=true
+files/rejestr_zmian_dummy.html linguist-vendored=true
